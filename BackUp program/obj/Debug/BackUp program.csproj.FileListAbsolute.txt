@@ -1,0 +1,19 @@
+D:\C#\BackUp program\BackUp program\BackUp program\bin\Debug\BackUp program.exe.config
+D:\C#\BackUp program\BackUp program\BackUp program\bin\Debug\BackUp program.exe
+D:\C#\BackUp program\BackUp program\BackUp program\bin\Debug\BackUp program.pdb
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.csprojAssemblyReference.cache
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\MainWindow.g.cs
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\App.g.cs
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program_MarkupCompile.cache
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program_MarkupCompile.lref
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\MainWindow.baml
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.g.resources
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp_program.Properties.Resources.resources
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.csproj.GenerateResource.cache
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.csproj.CoreCompileInputs.cache
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.exe
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.pdb
+D:\C#\BackUp program\BackUp program\BackUp program\bin\Debug\DotNetZip.dll
+D:\C#\BackUp program\BackUp program\BackUp program\bin\Debug\DotNetZip.pdb
+D:\C#\BackUp program\BackUp program\BackUp program\bin\Debug\DotNetZip.xml
+D:\C#\BackUp program\BackUp program\BackUp program\obj\Debug\BackUp program.csproj.CopyComplete
